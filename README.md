@@ -17,7 +17,7 @@ Welcome to my personal website! This repository contains the code and content fo
 
 ## Introduction
 
-This is my personal website where I showcase my portfolio, projects, and share a bit about myself. Feel free to explore and get to know me better!
+This is my personal website where I present some of my projects, skills, and achievements.
 
 ## Technologies Used
 
